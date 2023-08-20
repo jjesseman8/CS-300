@@ -1,1 +1,3 @@
 # CS-300
+
+The Problem that I was trying to solve within this course is to create a program in C++ that would take a CSV file of your choosing. Then it would sort and print out a list of the courses within the computer science program in alphanumerical order along with listing thier prerequsites if needed. As I learned throughout this project data structures are important as you need to understand the benefits and disadvateges of each so that you choose the correct one that will work for your said project. I had a few problems with minor issues in my code but the instructor pointed me in the right direction and I was able to work through them. 
